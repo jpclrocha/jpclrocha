@@ -13,8 +13,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  <a href="https://github.com/jpclrocha">
+<div>
+  <a href="https://github.com/jpclrocha"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpclrocha&count_private=true&show_icons=true&theme=merko"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpclrocha&layout=compact&theme=merko"/>
-<div>
+</div>
+  
+   ### Currently learning
+<div style="display:inline_block">
+   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>     
+</div>
+  
+  ##
+  
+  <div>
+    
+  </div>
