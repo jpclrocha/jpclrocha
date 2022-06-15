@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 <div>
   <a href="https://github.com/jpclrocha"></a>
-  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=jpclrocha&count_private=true&show_icons=true&theme=merko"/>
-  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpclrocha&layout=compact&theme=merko"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpclrocha&count_private=true&show_icons=true&theme=merko"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpclrocha&layout=compact&theme=merko"/>
 </div>
   
    ### Currently learning
