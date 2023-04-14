@@ -5,8 +5,10 @@
   <img height="180em" width="415" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpclrocha&layout=compact&theme=merko"/>
 </div>
 
+  ##
+
 ### Currently learning
-<div style="display:inline_block">
+<div style="display:inline_block" align="center">
    <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 </div>
