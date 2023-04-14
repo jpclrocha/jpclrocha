@@ -5,8 +5,6 @@
   <img height="180em" width="415" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpclrocha&layout=compact&theme=merko"/>
 </div>
 
-  ##
-
 ### Currently learning
 <div style="display:inline_block">
    <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
