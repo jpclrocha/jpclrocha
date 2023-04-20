@@ -1,4 +1,4 @@
-### Hello, I am João Pedro
+### Hello, I am João Pedro, aka JoPe
 <div>
   <a href="https://github.com/jpclrocha"></a>
   <img height="180em" width="415" src="https://github-readme-stats.vercel.app/api?username=jpclrocha&count_private=true&show_icons=true&theme=merko"/>
