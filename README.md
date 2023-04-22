@@ -2,7 +2,7 @@
 <div>
   <a href="https://github.com/jpclrocha"></a>
   <img height="180em" width="415" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpclrocha&layout=compact&theme=merko"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jpclrocha&theme=dark" alt="jpclrocha" />
+  <img height="180em" width="415" src="https://github-readme-streak-stats.herokuapp.com/?user=jpclrocha&theme=dark" alt="jpclrocha" />
 </div>
 
 ### Currently learning
