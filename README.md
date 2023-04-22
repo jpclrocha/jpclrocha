@@ -1,22 +1,36 @@
-### Hello, I am João Pedro, aka JoPe
-<div>
-  <a href="https://github.com/jpclrocha"></a>
-  <img height="180em" width="415" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpclrocha&layout=compact&theme=merko"/>
-  <img height="180em" width="415" src="https://github-readme-streak-stats.herokuapp.com/?user=jpclrocha&theme=dark" alt="jpclrocha" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00cc00&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=00cc00&center=true&vCenter=true&width=1000&height=50&lines=HELLO%2C+My+name+is+Jo%C3%A3o+Laranjeira;People+also+call+me+JoPe;Be+Welcome!)](https://git.io/typing-svg)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?theme=tokyo-night&username=jpclrocha&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jpclrocha&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jpclrocha&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9&theme=transparent" alt="João Laranjeira github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpclrocha&layout=compact&hide_border=true&title_color=70a5fd&text_color=70a5fd&theme=transparent" />
 </div>
 
-### Currently learning
-<div style="display:inline_block">
-   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-</div>
-  
-  ##
-  
-  <div align="center">
-  <a href="https://www.instagram.com/jopezin/"><img alt="Instagram" target="_blank" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/jpclrocha/"><img alt="Linkedin" target="_blank" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/notjope"><img alt="Twitter" target="_blank" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  </div>
+<div align="center"> 
+<a href="https://instagram.com/jopezin" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius: 30px"/></a>
+<a href = "mailto:cmp.1a.caroline@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" style="border-radius: 30px"></a>
+<a href="https://www.linkedin.com/in/jpclrocha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
+ 
+ ### Main skills:
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![TailwindCss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
 
+### Studying in this moment:
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00cc00&height=120&section=footer"/>
