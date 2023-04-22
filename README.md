@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00cc00&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=70a5fd&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=00cc00&center=true&vCenter=true&width=1000&height=50&lines=HELLO%2C+My+name+is+Jo%C3%A3o+Laranjeira;People+also+call+me+JoPe)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=70a5fd&center=true&vCenter=true&width=1000&height=50&lines=HELLO%2C+My+name+is+Jo%C3%A3o+Laranjeira;People+also+call+me+JoPe)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?theme=tokyo-night&username=jpclrocha&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -34,6 +34,6 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=50&color=00cc00&center=true&vCenter=true&width=1000&height=50&lines=Be+welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=50&color=70a5fd&center=true&vCenter=true&width=1000&height=50&lines=Be+welcome!)](https://git.io/typing-svg)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00cc00&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=70a5fd&height=120&section=footer"/>
