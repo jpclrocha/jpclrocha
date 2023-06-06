@@ -2,9 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=70a5fd&center=true&vCenter=true&width=1000&height=50&lines=HELLO%2C+My+name+is+Jo%C3%A3o+Laranjeira;People+also+call+me+JoPe)](https://git.io/typing-svg)
 
-```
+<!--
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?theme=tokyo-night&username=jpclrocha&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-```
+-->
+
 
 <div align="center">  
   <img width="50%" height="195px" src="https://github-profile-trophy.vercel.app/?username=jpclrocha&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/> 
