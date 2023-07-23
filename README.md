@@ -29,11 +29,15 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![TailwindCss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
 
-### Studying in this moment:
+### Studying at this moment:
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+
+### Listening right now:
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=9ums79zj2wmc9vfgv3kqid9pv&cover_image=true&theme=default&show_offline=false&background_color=113978&interchange=true&bar_color=374436&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=50&color=70a5fd&center=true&vCenter=true&width=1000&height=50&lines=Be+welcome!)](https://git.io/typing-svg)
 
